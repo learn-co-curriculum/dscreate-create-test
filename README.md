@@ -4,12 +4,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ```python
-# Your code here
-```
-
-
-```python
-#__SOLUTION__
 answer = 2 + 2
 ```
 
@@ -24,7 +18,7 @@ plt.plot([1,2,3], [1,2,3])
 
 
 
-    [<matplotlib.lines.Line2D at 0x13f403f70>]
+    [<matplotlib.lines.Line2D at 0x148e2ef70>]
 
 
 
