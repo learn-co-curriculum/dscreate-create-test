@@ -18,13 +18,13 @@ plt.plot([1,2,3], [1,2,3])
 
 
 
-    [<matplotlib.lines.Line2D at 0x145b54f70>]
+    [<matplotlib.lines.Line2D at 0x149739f70>]
 
 
 
 
     
-![png](README_files/README_6_1.png)
+![png](README_files/README_4_1.png)
     
 
 
@@ -54,6 +54,6 @@ plot_bar()
 
 
     
-![png](README_files/README_13_0.png)
+![png](README_files/README_9_0.png)
     
 
