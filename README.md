@@ -4,12 +4,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ```python
-# Your code here
-```
-
-
-```python
-#__SOLUTION__
 answer = 3 + 3
 ```
 
@@ -17,12 +11,6 @@ Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Et magnis d
 
 
 ```python
-# Your code here
-```
-
-
-```python
-#__SOLUTION__
 import matplotlib.pyplot as plt
 plt.plot([1,2,3], [1,2,3])
 ```
@@ -30,7 +18,7 @@ plt.plot([1,2,3], [1,2,3])
 
 
 
-    [<matplotlib.lines.Line2D at 0x105acf2e0>]
+    [<matplotlib.lines.Line2D at 0x14899af70>]
 
 
 
@@ -47,22 +35,6 @@ Donec pretium vulputate sapien nec sagittis aliquam malesuada. Tristique risus n
 
 
 ```python
-# Replace None with your code
-
-def plot_bar():
-    # Create x array
-    None
-    
-    # Create y array
-    None
-    
-    # Plot bar plot
-    None
-```
-
-
-```python
-#__SOLUTION__
 def plot_bar():
     # Create x array
     x = ['One', 'Two', 'Three']
@@ -78,12 +50,6 @@ Run your code
 
 
 ```python
-plot_bar()
-```
-
-
-```python
-#__SOLUTION__
 plot_bar()
 ```
 
