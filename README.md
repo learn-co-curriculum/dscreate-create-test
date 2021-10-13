@@ -14,26 +14,6 @@ Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Et magnis d
 # Your code here
 ```
 
-
-```python
-#__SOLUTION__
-import matplotlib.pyplot as plt
-plt.plot([1,2,3], [1,2,3])
-```
-
-
-
-
-    [<matplotlib.lines.Line2D at 0x105acf2e0>]
-
-
-
-
-    
-![png](README_files/README_6_1.png)
-    
-
-
 ### Header 3
 
 Donec pretium vulputate sapien nec sagittis aliquam malesuada. Tristique risus nec feugiat in fermentum. Tincidunt ornare massa eget egestas purus viverra. At varius vel pharetra vel turpis nunc. Pulvinar sapien et ligula ullamcorper malesuada. Vitae tempus quam pellentesque nec nam. Id volutpat lacus laoreet non curabitur gravida arcu. Sem viverra aliquet eget sit amet tellus cras adipiscing. Duis at consectetur lorem donec massa sapien. Fermentum posuere urna nec tincidunt praesent semper. Lacus luctus accumsan tortor posuere ac.
@@ -59,15 +39,3 @@ Run your code
 ```python
 plot_bar()
 ```
-
-
-```python
-#__SOLUTION__
-plot_bar()
-```
-
-
-    
-![png](README_files/README_13_0.png)
-    
-
