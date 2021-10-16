@@ -7,12 +7,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 # Your code here
 ```
 
-
-```python
-#==SOLUTION==
-answer = 2 + 2
-```
-
 Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Et magnis dis parturient montes nascetur ridiculus. Vitae purus faucibus ornare suspendisse sed. Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Vitae aliquet nec ullamcorper sit amet risus nullam. Sed tempus urna et pharetra pharetra massa massa. Eget dolor morbi non arcu risus quis varius quam. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel. Ut consequat semper viverra nam. Massa enim nec dui nunc. Leo in vitae turpis massa. Viverra justo nec ultrices dui sapien eget mi proin sed. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Blandit aliquam etiam erat velit.
 
 
@@ -20,41 +14,12 @@ Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Et magnis d
 # Your code here
 ```
 
-
-```python
-#==SOLUTION==
-import matplotlib.pyplot as plt
-plt.plot([1,2,3], [1,2,3])
-```
-
-
-
-
-    [<matplotlib.lines.Line2D at 0x14b44a850>]
-
-
-
-
-    
-![png](README_files/README_6_1.png)
-    
-
-
 ### New Question
 
 
 ```python
 # Your code here
 ```
-
-
-```python
-#__SOLUTION__
-print('solution')
-```
-
-    solution
-
 
 ### Header 3
 
@@ -75,44 +40,12 @@ def plot_bar():
     None
 ```
 
-
-```python
-#==SOLUTION==
-def plot_bar():
-    # Create x array
-    x = ['One', 'Two', 'Three']
-    
-    # Create y array
-    y = [1,2,4]
-    
-    # Plot bar plot
-    plt.bar(x, y)
-```
-
 Run your code
 
 
 ```python
 plot_bar()
 ```
-
-
-    
-![png](README_files/README_15_0.png)
-    
-
-
-
-```python
-#==SOLUTION==
-plot_bar()
-```
-
-
-    
-![png](README_files/README_16_0.png)
-    
-
 
 # Conclusion
 
