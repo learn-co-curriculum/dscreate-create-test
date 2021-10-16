@@ -1,6 +1,6 @@
 # Fake Lesson
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum CHANGE eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 ```python
@@ -38,6 +38,22 @@ plt.plot([1,2,3], [1,2,3])
     
 ![png](README_files/README_6_1.png)
     
+
+
+### New Question
+
+
+```python
+# Your code here
+```
+
+
+```python
+#__SOLUTION__
+print('solution')
+```
+
+    solution
 
 
 ### Header 3
@@ -82,7 +98,7 @@ plot_bar()
 
 
     
-![png](README_files/README_12_0.png)
+![png](README_files/README_15_0.png)
     
 
 
@@ -94,6 +110,13 @@ plot_bar()
 
 
     
-![png](README_files/README_13_0.png)
+![png](README_files/README_16_0.png)
     
 
+
+# Conclusion
+
+
+```python
+
+```
