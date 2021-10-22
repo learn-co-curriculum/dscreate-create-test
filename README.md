@@ -18,7 +18,7 @@ plt.plot([1,2,3], [1,2,3])
 
 
 
-    [<matplotlib.lines.Line2D at 0x10c769f70>]
+    [<matplotlib.lines.Line2D at 0x11d4d9f70>]
 
 
 
@@ -57,7 +57,6 @@ def plot_bar():
 
 ### Question 4
 
-==SOLUTION==
 
 THIS IS AN ANSWER
 
@@ -70,19 +69,7 @@ plot_bar()
 
 
     
-![png](README_files/README_17_0.png)
-    
-
-
-
-```python
-#==SOLUTION==
-plot_bar()
-```
-
-
-    
-![png](README_files/README_18_0.png)
+![png](README_files/README_13_0.png)
     
 
 
