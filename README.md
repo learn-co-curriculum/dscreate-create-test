@@ -18,11 +18,7 @@ plt.plot([1,2,3], [1,2,3])
 
 
 
-<<<<<<< HEAD
-    [<matplotlib.lines.Line2D at 0x11d4d9f70>]
-=======
-    [<matplotlib.lines.Line2D at 0x11d0fef70>]
->>>>>>> 60f17a0ad6c68080696f466602893b04e0b832ea
+    [<matplotlib.lines.Line2D at 0x144bd2f70>]
 
 
 
@@ -33,6 +29,18 @@ plt.plot([1,2,3], [1,2,3])
 
 
 ### New Question
+
+
+```python
+print('solution')
+```
+
+    solution
+
+
+### Header 3
+
+Donec pretium vulputate sapien nec sagittis aliquam malesuada. Tristique risus nec feugiat in fermentum. Tincidunt ornare massa eget egestas purus viverra. At varius vel pharetra vel turpis nunc. Pulvinar sapien et ligula ullamcorper malesuada. Vitae tempus quam pellentesque nec nam. Id volutpat lacus laoreet non curabitur gravida arcu. Sem viverra aliquet eget sit amet tellus cras adipiscing. Duis at consectetur lorem donec massa sapien. Fermentum posuere urna nec tincidunt praesent semper. Lacus luctus accumsan tortor posuere ac.
 
 
 ```python
@@ -50,13 +58,18 @@ def plot_bar():
 ### Question 4
 
 
+THIS IS AN ANSWER
+
+Run your code
+
+
 ```python
 plot_bar()
 ```
 
 
     
-![png](README_files/README_9_0.png)
+![png](README_files/README_13_0.png)
     
 
 
