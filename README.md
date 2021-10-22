@@ -40,25 +40,9 @@ def plot_bar():
     None
 ```
 
-
-```python
-#==SOLUTION==
-def plot_bar():
-    # Create x array
-    x = ['One', 'Two', 'Three']
-    
-    # Create y array
-    y = [1,2,4]
-    
-    # Plot bar plot
-    plt.bar(x, y)
-```
-
 ### Question 4
 
-==SOLUTION==
-
-THIS IS AN ANSWER
+YOUR ANSWER HERE
 
 Run your code
 
@@ -66,24 +50,6 @@ Run your code
 ```python
 plot_bar()
 ```
-
-
-    
-![png](README_files/README_17_0.png)
-    
-
-
-
-```python
-#==SOLUTION==
-plot_bar()
-```
-
-
-    
-![png](README_files/README_18_0.png)
-    
-
 
 # Conclusion
 
