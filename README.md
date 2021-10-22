@@ -89,6 +89,12 @@ def plot_bar():
     plt.bar(x, y)
 ```
 
+### Question 4
+
+==SOLUTION==
+
+THIS IS AN ANSWER
+
 Run your code
 
 
@@ -98,7 +104,7 @@ plot_bar()
 
 
     
-![png](README_files/README_15_0.png)
+![png](README_files/README_17_0.png)
     
 
 
@@ -110,7 +116,7 @@ plot_bar()
 
 
     
-![png](README_files/README_16_0.png)
+![png](README_files/README_18_0.png)
     
 
 
