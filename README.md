@@ -14,6 +14,13 @@ Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Et magnis d
 # Your code here
 ```
 
+### New Question
+
+
+```python
+# Your code here
+```
+
 ### Header 3
 
 Donec pretium vulputate sapien nec sagittis aliquam malesuada. Tristique risus nec feugiat in fermentum. Tincidunt ornare massa eget egestas purus viverra. At varius vel pharetra vel turpis nunc. Pulvinar sapien et ligula ullamcorper malesuada. Vitae tempus quam pellentesque nec nam. Id volutpat lacus laoreet non curabitur gravida arcu. Sem viverra aliquet eget sit amet tellus cras adipiscing. Duis at consectetur lorem donec massa sapien. Fermentum posuere urna nec tincidunt praesent semper. Lacus luctus accumsan tortor posuere ac.
@@ -33,9 +40,20 @@ def plot_bar():
     None
 ```
 
+### Question 4
+
+YOUR ANSWER HERE
+
 Run your code
 
 
 ```python
 plot_bar()
+```
+
+# Conclusion
+
+
+```python
+
 ```
